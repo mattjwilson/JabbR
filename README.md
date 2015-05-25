@@ -7,8 +7,7 @@ JabbR is a chat application built with ASP.NET using SignalR.
 ### Features and Bugs
 If you want to discuss the features join discussion in the [meta](https://jabbr.net/#/rooms/meta) room on jabbr. 
 
-## JabbR Features and Commands
-    
+## JabbR Features and Commands 
 ### Public and private chat rooms
 Quickly join a public chat room with
 
